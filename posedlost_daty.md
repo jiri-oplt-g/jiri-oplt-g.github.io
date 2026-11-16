@@ -1,3 +1,5 @@
+# Vychází dnešní posedlost daty a algoritmizací z myšlenek novověkého racionalismu
+
 Ano, dnešní fascinace daty, algoritmy a umělou inteligencí má své hluboké filozofické kořeny právě v novověkém racionalismu. Mezi myšlením 17. století a dnešní digitální érou existuje přímá ideová linie. Racionalisté sice nepracovali s počítači, ale vytvořili myšlenkový software, na kterém moderní digitální svět běží.
 Hlavní oblasti, kde se myšlenky novověkého racionalismu propojují s dnešní algoritmizací, zahrnují následující principy:
 
