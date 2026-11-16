@@ -1,3 +1,5 @@
+# Co je novověký racionalismus
+
 Novověký racionalismus je klíčový filozofický směr 17. a 18. století, který za hlavní, samostatný a nejspolehlivější zdroj lidského poznání považuje rozum (latinsky ratio). Vznikl jako reakce na autoritu církve a scholastickou tradici. Jeho zastánci věřili, že pomocí správné logické metody dokáže lidská mysl odhalit objektivní pravdy o světě nezávisle na smyslové zkušenosti. [1] (https://www.cojeco.cz/racionalismus-1), [2] (https://cs.wikipedia.org/wiki/Racionalismus), [3] (https://sk.wikipedia.org/wiki/Novovek%C3%BD_racionalizmus), [4] (https://www.studocu.com/cs/document/gymnazium-hranice/zsv/21-novoveka-filozofie/124803661)
 
 Hlavní znaky novověkého racionalismu
